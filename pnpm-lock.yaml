@@ -21,8 +21,8 @@ importers:
         specifier: ^0.40.0
         version: 0.40.1(@libsql/client@0.14.0)(gel@2.1.1)(kysely@0.28.4)
       fayda:
-        specifier: ^0.0.7
-        version: 0.0.7(better-auth@1.3.4)
+        specifier: ^0.0.11
+        version: 0.0.11(better-auth@1.3.4)
       jose:
         specifier: ^6.0.12
         version: 6.0.12
@@ -966,8 +966,8 @@ packages:
   esrap@2.1.0:
     resolution: {integrity: sha512-yzmPNpl7TBbMRC5Lj2JlJZNPml0tzqoqP5B1JXycNUwtqma9AKCO0M2wHrdgsHcy1WRW7S9rJknAMtByg3usgA==}
 
-  fayda@0.0.7:
-    resolution: {integrity: sha512-3ZI7JQjFOzK/r8xMCb/JV2/zEhMS7jr7FhGNEcwMvGu9jm3R1/Wh5Deccuj7HedggzDwb9pp663YEPLfrad6Dg==}
+  fayda@0.0.11:
+    resolution: {integrity: sha512-8D6t92twVN0ukJQElapks9fXtaKi52bGsvVjaddVD4vePosyqsskZWZOLQheVKGwrkvV3qGEN87saP4CjVyi/Q==}
     peerDependencies:
       better-auth: ^1.3.4
 
@@ -1920,7 +1920,7 @@ snapshots:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.4
 
-  fayda@0.0.7(better-auth@1.3.4):
+  fayda@0.0.11(better-auth@1.3.4):
     dependencies:
       '@better-fetch/fetch': 1.1.18
       better-auth: 1.3.4

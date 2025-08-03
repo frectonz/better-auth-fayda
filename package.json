@@ -35,7 +35,7 @@
 		"@libsql/client": "^0.14.0",
 		"better-auth": "^1.3.4",
 		"drizzle-orm": "^0.40.0",
-		"fayda": "^0.0.7",
+		"fayda": "^0.0.11",
 		"jose": "^6.0.12"
 	},
 	"pnpm": {
